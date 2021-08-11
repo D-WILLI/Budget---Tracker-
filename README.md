@@ -23,7 +23,8 @@
   >none
  
   ## Demo
- ![Screen Shot 2021-08-11 at 12 06 34 AM](https://user-images.githubusercontent.com/72957816/128968141-57ad250b-a7e8-475b-a3c1-acb1f2e6bfb9.png)
+![Screen Shot 2021-08-11 at 12 07 47 AM](https://user-images.githubusercontent.com/72957816/128968222-c03a921d-9c76-4aa0-afac-0150e90491aa.png)
+
 
 
 
@@ -31,7 +32,7 @@
   
   > Link to Repo:https://github.com/D-WILLI/Budget---Tracker-
   > 
-  > Link to Website: 
+  > Link to Website: https://budget-tracker-011.herokuapp.com/
 
 
   ## License
